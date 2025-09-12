@@ -1,0 +1,1 @@
+This is all the projects that are in the Book Automate the Boring Stuff by Al Sweigart Version 3

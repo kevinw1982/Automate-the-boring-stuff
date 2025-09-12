@@ -1,3 +1,4 @@
+#This program says hello and asks for my name and age
 print('Hello, world!')
 print('What is your name?')  # Ask for their name.
 my_name = input('>')
